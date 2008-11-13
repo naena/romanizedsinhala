@@ -1,0 +1,27 @@
+#summary This page guides you on configuring Language Bar to easily switch between languages with keyboard shortcuts.
+#labels Phase-Deploy
+
+= Windows Vista =
+
+Start > Control Panel > Regional and Language Settings 
+
+Change Keyboards
+
+Go to Advanced Key Settings
+
+[http://img377.imageshack.us/img377/8223/textservicesandinputlanrf2.png]
+
+Change the Key Sequence
+
+[http://img341.imageshack.us/img341/9176/changekeysequence200811qt2.png]
+
+In this screenshot 
+
+Ctrl+1 is set to English
+Ctrl+2 is set to Sinhala
+
+Press OK
+
+Finalized Language Bar entries:
+
+[http://img243.imageshack.us/img243/2781/ss20081113214852ce3.png]

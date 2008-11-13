@@ -19,7 +19,7 @@ Notice that even in English we have the digraph (kn), and it occurs as 'gn' in '
 = Why are my letters are not combined? =
 == Mozilla Firefox ==
 
-In Firefox you need to go to 
+Firefox 3.0.3 does not form ligatures in fonts under 20 pixels. In Firefox you need to go to 
 {{{
 about:config
 }}}

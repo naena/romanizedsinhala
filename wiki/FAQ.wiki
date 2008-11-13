@@ -13,3 +13,24 @@ That means it is a nasal (naasikyaya) that is generated with the dorsum of the t
 
 
 Notice that even in English we have the digraph (kn), and it occurs as 'gn' in 'agnostic' and when we say ajçaaana, we pronounce it exactly the way the English word is pronounced (j goes to g).
+
+
+= Why are my letters are not combined? =
+== Mozilla Firefox ==
+
+In Firefox you need to go to 
+{{{
+about:config
+}}}
+You can do this by typing *about:config* in the address bar and pressing Enter
+
+Locate the following
+{{{
+set browser.display.auto_quality_min_font_size
+}}}
+
+Set the value to
+{{{
+0
+}}}
+Restart Firefox

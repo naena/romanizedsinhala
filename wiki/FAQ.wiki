@@ -1,5 +1,6 @@
 #summary Frequently Asked Questions
 #labels Featured
+<wiki:toc max_depth="1" />
 
 = How do you type ඥ? =
 

@@ -35,3 +35,19 @@ Set the value to
 0
 }}}
 Restart Firefox
+
+= Why can't I type azookamaalaa? =
+
+Correct spelling: azokamaalaa (one o).
+
+Please download the hodiyas from the Pihituvanna page (http://www.lovatasinhala.com/pihituvanna.htm) when reading the following.
+
+z and x are strictly Sanskrit letters. Sanskrit does NOT have long forms for e and o. In Sanskrit (single) e and o are always long vowels. Therefore we do not double up e or o.
+
+So, Sanskrit orthography goes like this:
+
+vizexa, zobana (Hint if any word has z or x it MUST be Sanskrit.)
+
+Pali too does not have long e and o written forms. However, it has pronunciation rules, but are very much like (archaic) English. If the vowel is followed by two consonants, it is pronounced short otherwise, it is long.
+
+The font tries to enforce orthography but it can do it only in cases where the spelling does not clash with Sinhala. Now, we know that only Sinhala has æ and ææ. And also we know that Sinhala does not have mahapraana. Therefore the font won't allow you to type khæ or khææ etc. Try it. I hope you know that SInhala or Pali do not have the two Sanskrit diphthongs: ai and au. (Check the hodiya). This is why it is wrong to type ðivaina. It is correctly ðivayina. Similarly, kavða not kauða.

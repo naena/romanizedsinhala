@@ -9,16 +9,16 @@ Change Keyboards
 
 Go to Advanced Key Settings
 
+In this screenshot 
+
+ * Ctrl+1 is set to English
+ * Ctrl+2 is set to Sinhala
+
 [http://img377.imageshack.us/img377/8223/textservicesandinputlanrf2.png]
 
 Change the Key Sequence
 
 [http://img341.imageshack.us/img341/9176/changekeysequence200811qt2.png]
-
-In this screenshot 
-
-Ctrl+1 is set to English
-Ctrl+2 is set to Sinhala
 
 Press OK
 

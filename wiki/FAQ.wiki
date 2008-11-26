@@ -7,10 +7,10 @@
 The letter is not a letter from the Hodiya. Unicode Sinhala wrongly treats it as a hodi akura and that ruins the ability for you to text process Unicode Sinhala.
 
 
-This letter is called þaaluja sáyuga naasikyaya.
+This letter is called <font face="suriyakumara">þaaluja sáyuga naasikyaya</font>.
 
 
-That means it is a nasal (naasikyaya) that is generated with the dorsum of the tongue (þaaluja) and is a digraph (sáyuga). So, it is a combination of two letters: j+ç. Its history goes all the way back to Proto-Indo-European (Mother-of-all Indo-European languages). Sanskrit: jçaana -> English: knowledge.
+That means it is a nasal (naasikyaya) that is generated with the dorsum of the tongue (þaaluja) and is a digraph (sáyuga). So, it is a combination of two letters: j+ç. Its history goes all the way back to Proto-Indo-European (Mother-of-all Indo-European languages). Sanskrit: <font face="suriyakumara">jçaana</font>-> English: knowledge.
 
 
 Notice that even in English we have the digraph (kn), and it occurs as 'gn' in 'agnostic' and when we say ajçaaana, we pronounce it exactly the way the English word is pronounced (j goes to g).

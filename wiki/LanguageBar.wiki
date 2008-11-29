@@ -1,6 +1,33 @@
 #summary This page guides you on configuring Language Bar to easily switch between languages with keyboard shortcuts.
 #labels Phase-Deploy
 
+= Windows XP =
+
+Start > Control Panel > Regional and Language Options
+
+Go to *Languages tab*
+
+Click *Details*
+
+Click *Key Settings*
+
+In this screenshot 
+
+ * Ctrl+Shift+1 is set to English
+ * Ctrl+Shift+4 is set to Sinhala
+
+[http://img512.imageshack.us/img512/2122/advancedkeysettings2008mg3.png]
+
+Personalize your Key Sequence accordingly 
+
+Press OK
+
+Finalized Language Bar entries:
+
+[http://img291.imageshack.us/img291/8796/ss20081129214049av7.png]
+
+
+
 = Windows Vista =
 
 Start > Control Panel > Regional and Language Settings 

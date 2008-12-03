@@ -1,0 +1,29 @@
+#summary Ultimate Guide to Getting Started with Romanized Sinhala
+#labels Phase-Support
+
+= Introduction = 
+
+This guide will help you: 
+ * Setup Romanized Sinhala in your computer
+ * Type English and Sinhala using a Word Processor
+ * Send Emails in English and Sinhala
+
+= Requirements =
+== Font == 
+Download the latest Smart Font for Sinhala:
+[http://romanizedsinhala.googlecode.com/files/Suriyakumara.ttf Suriyakumara Font]
+
+== Keyboard == 
+Download the latest version of the keyboard for your operating system from:
+http://code.google.com/p/romanizedsinhala/downloads/list 
+
+For Windows XP, the file name will follow the pattern *kbdssinh-#.#-xp.zip*
+e.g. http://romanizedsinhala.googlecode.com/files/kbdssinh-1.4-xp.zip
+For Windows Vista, the file name will follow the pattern *kbdssinh-#.#-vista.zip*
+e.g. http://romanizedsinhala.googlecode.com/files/kbdssinh-1.4-vista.zip
+
+== Word Processor ==
+[http://scripts.sil.org/cms/scripts/render_download.php?site_id=nrsi&format=file&media_id=WorldPad_2_8_setup&filename=WorldPad_2_8_setup.msi WorldPad 2.8]
+
+== Email Client ==
+[http://ftp.mozilla.org/pub/mozilla.org/thunderbird/nightly/latest-trunk/ Mozilla Thunderbiard 3.0 Beta]

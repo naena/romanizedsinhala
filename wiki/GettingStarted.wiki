@@ -15,7 +15,7 @@ This guide will help you:
 Download the latest Smart Font for Sinhala:
 [http://romanizedsinhala.googlecode.com/files/Suriyakumara.ttf Suriyakumara Font]
 
-== Romanzed Sinhala Keyboard == 
+== Romanized Sinhala Keyboard == 
 Download the latest version of the keyboard for your operating system from:
 http://code.google.com/p/romanizedsinhala/downloads/list 
 
@@ -27,11 +27,10 @@ http://code.google.com/p/romanizedsinhala/downloads/list
 == WorldPad ==
 Main artcile: http://www.sil.org/computing/catalog/show_software.asp?id=68
 
-WorldPad is a basic text editor whose main distinction is the ability to display text in complex scripts using Graphite, a programmable rendering engine particularly suited to complex minority scripts. WorldPad can also be used to work with text in a simple "Roman" scripts. Some of WorldPad's text-editing features include multilingual text processing, named styles, right-to-left paragraph orientation, and mixed direction text flow handling, The installation program here includes the WorldPad program, the Graphite engine and font compiler, and a few sample Graphite fonts.
-
 [http://scripts.sil.org/cms/scripts/render_download.php?site_id=nrsi&format=file&media_id=WorldPad_2_8_setup&filename=WorldPad_2_8_setup.msi WorldPad 2.8]
 
 == Thunderbird ==
+
 [http://ftp.mozilla.org/pub/mozilla.org/thunderbird/nightly/latest-trunk/ Mozilla Thunderbird 3.0 Beta]
 
 == Browser == 
@@ -79,6 +78,4 @@ Firefox by default does not allow formation of ligatures for size under 20px. Yo
 
 == Word Processor == 
 WorldPad can be used for typing any offline document that contains mixture of English and Sinhala. The writing system can be switched by a drop down menu. WorldPad automatically changes to the correct font and keyboard.
-
-
 

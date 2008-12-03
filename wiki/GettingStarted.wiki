@@ -43,17 +43,17 @@ Main artcile: http://www.sil.org/computing/catalog/show_software.asp?id=68
 
 = Configuration =
 
-== Keyboard == 
+== Romanized Sinhala Keyboard ==  
 After the installation of the Keyboard, the new keyboard should be visible in the Language Bar automatically. If for some reason, the new keyboard is not displayed, you can set up the keyboard manually. 
 
  * Setup keyboard shortcuts so that you can switch between languages quite easiliy: http://code.google.com/p/romanizedsinhala/wiki/LanguageBar
 
-== Word Processor ==
+== WorldPad ==
  * Setup WorldPad according to the video: http://romanizedsinhala.googlecode.com/files/WorldPad%20Sinhala.avi
   * For Windows XP, the Language ID would be Serbian (Latin). 
   * For Windows Vista, the Language ID would be Sinhalese as seen in the video. 
 
-== Email Client ==
+== Mozilla Thunderbird ==
  * By default your emails are saved in %appdata%\Thunderbird\Profiles. You can relocate this to a folder in your Documents by modifying the profiles.ini file. 
 
  * Change the IsRelative value to 0 and customize the Path:
@@ -70,11 +70,11 @@ Path=H:\Users\Mike\Documents\Applications\Thunderbird\2008
 
  * Upon the next launch of Thunderbird, the profile should be created inside your Documents folder. 
 
-== Browser == 
+== Mozilla Firefox ==
 
 Firefox by default does not allow formation of ligatures for size under 20px. You will need to follow http://code.google.com/p/romanizedsinhala/wiki/FAQ#Why_are_my_letters_are_not_combined? in order to display the Sinhala letters properly
 
 = Usage = 
 
-== Word Processor == 
+== WorldPad == 
 WorldPad can be used for typing any offline document that contains mixture of English and Sinhala. The writing system can be switched by a drop down menu. WorldPad automatically changes to the correct font and keyboard.

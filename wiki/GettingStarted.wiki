@@ -1,5 +1,6 @@
 #summary Ultimate Guide to Getting Started with Romanized Sinhala
 #labels Phase-Support
+<wiki:toc max_depth="2" />
 
 = Introduction = 
 
@@ -78,8 +79,6 @@ Firefox by default does not allow formation of ligatures for size under 20px. Yo
 
 == Word Processor == 
 WorldPad can be used for typing any offline document that contains mixture of English and Sinhala. The writing system can be switched by a drop down menu. WorldPad automatically changes to the correct font and keyboard.
-
-
 
 
 

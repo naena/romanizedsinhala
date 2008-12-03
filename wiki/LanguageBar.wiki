@@ -1,5 +1,6 @@
 #summary This page guides you on configuring Language Bar to easily switch between languages with keyboard shortcuts.
 #labels Phase-Deploy
+<wiki:toc max_depth="1" />
 
 = Windows XP =
 

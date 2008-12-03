@@ -1,5 +1,5 @@
 #summary Ultimate Guide to Getting Started with Romanized Sinhala
-#labels Phase-Support
+#labels Phase-Support,Featured
 <wiki:toc max_depth="2" />
 
 = Introduction = 

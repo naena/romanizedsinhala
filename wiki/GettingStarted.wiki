@@ -27,11 +27,11 @@ http://code.google.com/p/romanizedsinhala/downloads/list
 == WorldPad ==
 Main artcile: http://www.sil.org/computing/catalog/show_software.asp?id=68
 
-[http://scripts.sil.org/cms/scripts/render_download.php?site_id=nrsi&format=file&media_id=WorldPad_2_8_setup&filename=WorldPad_2_8_setup.msi WorldPad 2.8]
+Download [http://scripts.sil.org/cms/scripts/render_download.php?site_id=nrsi&format=file&media_id=WorldPad_2_8_setup&filename=WorldPad_2_8_setup.msi WorldPad 2.8]
 
 == Mozilla Thunderbird ==
 
-[http://ftp.mozilla.org/pub/mozilla.org/thunderbird/nightly/latest-trunk/ Mozilla Thunderbird 3.0 Beta]
+Download [http://ftp.mozilla.org/pub/mozilla.org/thunderbird/nightly/latest-trunk/ Mozilla Thunderbird 3.0 Beta]
 
 == Mozilla Firefox == 
 [http://www.firefox.com/ Mozilla Firefox 3.0] or above

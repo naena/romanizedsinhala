@@ -29,7 +29,7 @@ Finalized Language Bar entries:
 
 
 
-= Windows Vista =
+= Windows Vista / Windows 7 =
 
 Start > Control Panel > Regional and Language Settings 
 

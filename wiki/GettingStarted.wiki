@@ -56,7 +56,8 @@ After the installation of the Keyboard, the new keyboard should be visible in th
 == Mozilla Thunderbird ==
  * By default your emails are saved in %appdata%\Thunderbird\Profiles
  * You can relocate this to a folder in your Documents by modifying the profiles.ini file.
-  * Start > Run or WinKey+R and type: 
+  * Start > Run or WinKey+R 
+  * Type: 
 {{{
 %appdata%\Thunderbird
 }}}

@@ -56,6 +56,9 @@ After the installation of the Keyboard, the new keyboard should be visible in th
   * For Windows Vista, the Language ID would be Sinhalese as seen in the video. 
 
 == Mozilla Thunderbird ==
+=== Relocating Profiles folder ===
+This section is optional. 
+
  * By default your emails are saved in %appdata%\Thunderbird\Profiles
  * You can relocate this to a folder in your Documents by modifying the profiles.ini file.
   * Start > Run or WinKey+R 
@@ -84,4 +87,4 @@ Firefox by default does not allow formation of ligatures for size under 20px. Yo
 = Usage = 
 
 == WorldPad == 
-WorldPad can be used for typing any offline document that contains mixture of English and Sinhala. The writing system can be switched by a drop down menu. WorldPad automatically changes to the correct font and keyboard.
+WorldPad can be used for typing any offline document that contains a mixture of English and Sinhala. The writing system can be switched by a drop down menu. WorldPad automatically changes to the correct font and keyboard.

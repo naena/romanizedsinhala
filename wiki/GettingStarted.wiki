@@ -54,10 +54,14 @@ After the installation of the Keyboard, the new keyboard should be visible in th
   * For Windows Vista, the Language ID would be Sinhalese as seen in the video. 
 
 == Mozilla Thunderbird ==
- * By default your emails are saved in %appdata%\Thunderbird\Profiles. You can relocate this to a folder in your Documents by modifying the profiles.ini file. 
-
+ * By default your emails are saved in %appdata%\Thunderbird\Profiles
+ * You can relocate this to a folder in your Documents by modifying the profiles.ini file.
+  * Start > Run or WinKey+R and type: 
+{{{
+%appdata%\Thunderbird
+}}}
+ * Locate the profiles.ini file
  * Change the IsRelative value to 0 and customize the Path:
-
 {{{
 [General]
 StartWithLastProfile=1

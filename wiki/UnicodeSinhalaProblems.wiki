@@ -1,0 +1,46 @@
+#summary Unicode Sinhala Problems compared to Romanized Sinhala
+#labels Phase-QA
+<wiki:toc max_depth="2" />
+=Unicode Sinhala Problems=
+==kombuva==
+Unicode 'text runs' have a rule. It says in a cluster, the vowels MUST follow the consonants. In a given text, the 'text run' is recorded below the glyphs row. When the text is received at a destination or when a program reads it, the rendering engine inspects the text run and shows the glyphs. In Sinhala as in other Indic, the vowels 'e' and 'o' has a sign that goes to the LEFT of the base character. This is the kombuva. Also the placement of the hal kiriima would be decided by the rendering engine. (See how the hal kiriima is misplaced in the above sample.
+
+Here is an example of typing Unicode SInhala and the process that follows:
+{{{
+koøaBa kello
+}}}
+Type:
+{{{
+[kombuva, kayanna, ælapilla] [muurðhaja-layanna] [aBa-bayanna] [hidasa] [kombuva, kayanna] [layanna, hal-kiriima] [kombuva, layanna, ælapilla]
+text run (Unicode characters <== numbers):
+[kayanna] [kombuva+ælapilla] [muurðhaja-layanna] [aBa-bayanna] [hidasa] [kayanna] [kombuva] [layanna] [halkiriima] [layanna] [kombuva+ælapilla]
+}}}
+
+If you do not have the text renderer, you will see the letters in the order that the text run brings. The result is kombuva always following the akura.
+
+That becomes very hard to read. Even the single line that his message had to awhile for me to figure out.
+
+==Wijesekera keyboard and Localizing==
+You must have this. We only need the QWERTY keyboard. You MUST localize the computer for this.
+
+==Collation==
+Now think of collation. All text operations are performed on Unicode characters. The bracketed items in the text run example are single Unicode characters.
+See: http://www.unicode.org/charts/PDF/U0D80.pdf 
+
+The vowels and vowel signs have their own specific codes. If you are going to write a hodiya collation like the one I did, they'd have to reconstruct the 38*(18+12+10)=1520 weighted clusters and before that, a resolution for the two conjoint characters / canonical forms (U-0DA1 and U-0DA5) that they need to decomposed ahead of comparison. (0DA1 = çj; 0DA5 = jç).
+
+If they follow my method, the web page will time out as it happened to me with the earlier longer algorithm that I asked you to help me with. (My algorithm is faster than Unicode prescribed one as I said before). This means each program would have to have its own collation routine hard coded (including JavaScript).
+
+==Text Processing==
+You'll have to have a special routine written to equate the free-standing vowels (e.g. eyanna) and their signs ( kombuva) and to decompose kayanna etc. to hal-kayanna and ayanna etc for 38 letters.
+
+No commercially available word processor will ever have these routines written and added for lazy Sinhalese.
+
+==Pali and Sanskrit==
+Pali and Sanskrit treat ç and j as individual letters in their Latin transcriptions. Conversion between Pali/Sanskrit texts and Unicode SInhala would be another programming challenge that the Sinhalese pundits would pass over.
+
+==SBCS vs DBCS==
+You know the power of SBSC. Just search and be befuddled.
+
+=Conclusion=
+The above three makes Unicode Sinhala crippled. The elite could care less because they use English. Poor Sinhalese people would be restricted to using Sinhala to write documents, read web pages. No text processing or higher users like using them in commercial applications would be possible.

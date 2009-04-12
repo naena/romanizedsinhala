@@ -27,7 +27,7 @@ You must have this. We only need the QWERTY keyboard. You MUST localize the comp
 Now think of collation. All text operations are performed on Unicode characters. The bracketed items in the text run example are single Unicode characters.
 See: http://www.unicode.org/charts/PDF/U0D80.pdf 
 
-The vowels and vowel signs have their own specific codes. If you are going to write a hodiya collation like the one I did, they'd have to reconstruct the 38*(18+12+10)=1520 weighted clusters and before that, a resolution for the two conjoint characters / canonical forms (U-0DA1 and U-0DA5) that they need to decomposed ahead of comparison. (0DA1 = çj; 0DA5 = jç).
+The vowels and vowel signs have their own specific codes. If you are going to write a hodiya collation like the one I did, they'd have to reconstruct the 38`*`(18+12+10)=1520 weighted clusters and before that, a resolution for the two conjoint characters / canonical forms (U-0DA1 and U-0DA5) that they need to decomposed ahead of comparison. (0DA1 = çj; 0DA5 = jç).
 
 If they follow my method, the web page will time out as it happened to me with the earlier longer algorithm that I asked you to help me with. (My algorithm is faster than Unicode prescribed one as I said before). This means each program would have to have its own collation routine hard coded (including JavaScript).
 

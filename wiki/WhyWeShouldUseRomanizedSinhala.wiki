@@ -1,4 +1,4 @@
-#summary Why you should use Romanized Sinhala instead of Unicode
+#summary Why we should use Romanized Sinhala instead of Unicode
 #labels Featured
 <wiki:toc max_depth="2" />
 
@@ -54,3 +54,20 @@ DS Sinhala is entered using the familiar QWERTY keyboard extended to include add
 Our test smartfonts are only proof-of-concept products and are not complete or conform to specific orthographies. We have nearly finished analyzing the orthographies but due to time constraints are not ready to issue commercial grade, typographically designed smart fonts. However, our Suriyakumara smartfont already beats Unicode Sinhala in its ability to display complex Sanskrit orthographic constructs and Theodore, our first test font, perfectly displays Pali Tripitaka pages in the Sinhala script. The font is best used using IRA Iriyagolla Standard Sinhala. It can even identify certain classes of illegal constructs and flags them as unacceptable.
 
 We believe dual-script solution would remove the digital divide between the urban and the country populations opening the door for the Sinhala-only/Tamil-only youth to participate meaningfully in the brave new world of digital technology. That is paramount in this digital age. Many other countries that use languages other than English particularly engage in the open-source projects using their limited English but showing their shining innovations. Imagine where we could go with our 92% literacy rate equal to that of developed nations. DBCS Sinhala is ill-equipped for this type of application. 
+
+=The proof is in the eating=
+As they say, 'Proof of the pudding is in the eating'. Therefore, we challenge you to first go to this page: [GettingStarted] do as suggested to test DS Sinhala. Your computer should be one of the following:
+
+    * Linux OS
+    * Windows 2000 or later
+    * Macintosh OS X 10.4 or later
+
+
+Thank you again.
+
+JC Ahangama
+jc@LANandWAN.com
+American Smart Fonts
+817-222-0963
+
+June 23, 2008 

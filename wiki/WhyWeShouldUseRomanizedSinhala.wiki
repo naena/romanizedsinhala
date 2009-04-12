@@ -1,5 +1,6 @@
 #summary Why you should use Romanized Sinhala instead of Unicode
 #labels Featured
+<wiki:toc max_depth="2" />
 
 With the release of Firefox 3 browser and upcoming release of Thunderbird 3 email client, we are able to publish Sinhala on web pages and use it in email messages just like English.
 
@@ -11,7 +12,7 @@ Click [GettingStarted] to quit talk for a quick start.
 Both Unicode Sinhala and the Sinhala web fonts are not digital solutions for the successful use of Sinhala on the computer because the bases of their designs are flawed.
 
 =Unicode Sinhala=
-Unicode Sinhala standard was proposed by Michael Everson, a font maker. Earlier draft was by Andy Daniels, an American Unicode enthusiast. Michael followed the standards of Indian languages, (as it appears) consulted German sources and drafted the Sinhala code block certifying it as correct. He obtained endorsements by two Lankans too.
+Unicode Sinhala standard was proposed by [http://www.evertype.com/ Michael Everson], a font maker. [http://unicode.org/Public//TEXT/UTR-2.TXT Earlier draft] was by Andy Daniels, an American Unicode enthusiast. Michael followed the standards of Indian languages, (as it appears) consulted German sources and drafted the Sinhala code block certifying it as correct. He obtained endorsements by two Lankans too.
 
 Unfortunately, he did not (nor should we have expected him to) understand inextricable associations Sinhala script has with Pali and Sanskrit and the intricacies of its multiple orthographies that seems like unique in Sinhala. Well, it is much a grander language than what we were led to believe.
 
@@ -30,9 +31,9 @@ Unicode Sinhala is in the Double-byte Code Space (DBCS). It requires extra-ordin
 
 In addition to the base letters (hodi akuru), Unicode Sinhala has unique codes assigned to vowel marks (pili). That makes each vowel to have two Unicode positions, one for the stand-alone letter and another when it has joined with a consonant. For instance, oyanna is at 0D94, and its kombuva haa ælapilla combination is at 0DDC. Unicode forces a consonant plus vowel combination once typed to be crystallized into an indivisible entity. The result is that the constituent parts of such a construct cannot be reached in text processing -- a crippling handicap.
 
-Unicode Sinhala block has two letters at positions 0DA5 and 0DA6 that are actually conjoint letters. This is a violation of Unicode's normalizing rules. Tragically, these were defined even after the normalizing rules were established. These two problems alone make Sinhala Unicode incapacitated as a digital solution for Sinhala. It only makes the computer the new typewriter.
+Unicode Sinhala block has two letters at positions 0DA5 and 0DA6 that are actually conjoint letters. This is a violation of Unicode's normalizing rules. Tragically, these were defined even after the [http://unicode.org/reports/tr15/ normalizing rules] were established. These two problems alone make Sinhala Unicode incapacitated as a digital solution for Sinhala. It only makes the computer the new typewriter.
 
-Each Unicode Sinhala letter uses a code consisting of two bytes, and when it is transmitted, it needs to be encoded into a special format, UTF-8 that makes it three bytes!
+Each Unicode Sinhala letter uses a code consisting of two bytes, and when it is transmitted, it needs to be encoded into a special format, [http://www.faqs.org/rfcs/rfc2279.html UTF-8] that makes it three bytes!
 
 When the decoded DBCS letter is displayed, it degenerates into question marks or rectangles if the host computer does not have the font carrying Unicode letters or if it does not support Double-byte characters. If the host system has a font such as updated Arial Unicode by Microsoft for "Plain Text" display, the correct ordering of akuru and pili further requires installation of the special Unicode Sinhala package.
 

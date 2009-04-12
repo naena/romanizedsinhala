@@ -1,5 +1,6 @@
-#summary One-sentence summary of this page.
+#summary Origin of Sinhala
 #labels Phase-QA
+
 <wiki:toc max_depth="2" />
 
 =What is the origin of Sinhala? =
@@ -175,5 +176,3 @@ If you want to try out world’s first Smartfont (it’s for Sinhala!), please e
 
 
 (Copyright © JC Ahangama, Texas USA. Contact jc@LANandWAN.com Phone: 817-473-9984) 
-
-

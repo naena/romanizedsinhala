@@ -1,8 +1,9 @@
 #summary Romanized Sinhala Alphabet (roomaaµukaraµaya karana laða mizra síhala hoodiya)
 #labels Featured
 
-* The letters and digraphs unique to Sinhala are printed in <font color=green>green	</font>. 
-* Those used only in Sanskrit loan words (or said to exist only in Sanskrit) are <font color=blue>blue</font>.
+ * The letters and digraphs unique to Sinhala are printed in <font color=green>green	</font>. 
+ * Those used only in Sanskrit loan words (or said to exist only in Sanskrit) are blue. 
+
 
 || *Sinhala* || *Latin (Formal)* || *Latin (Casual)* ||
 ||	අ	||	a	||	a	||

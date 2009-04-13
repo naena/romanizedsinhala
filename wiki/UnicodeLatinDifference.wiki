@@ -1,5 +1,6 @@
+#summary UTF-8 and Latin-1: The Leaning Tower of Babel
 #labels Phase-QA
-#UTF-8 and Latin-1: The Leaning Tower of Babel
+<wiki:toc max_depth="2" />
 
 *Original article from http://techessence.info/node/60*
 

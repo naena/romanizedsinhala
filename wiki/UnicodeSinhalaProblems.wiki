@@ -43,4 +43,4 @@ Pali and Sanskrit treat ç and j as individual letters in their Latin transcript
 You know the power of SBSC. Just search and be befuddled.
 
 =Conclusion=
-The above three makes Unicode Sinhala crippled. The elite could care less because they use English. Poor Sinhalese people would be restricted to using Sinhala to write documents, read web pages. No text processing or higher users like using them in commercial applications would be possible.
+The above facts make Unicode Sinhala crippled. The elite could care less because they use English. Poor Sinhalese people would be restricted to using Sinhala to write documents, read web pages. No text processing or higher users like using them in commercial applications would be possible.

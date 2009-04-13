@@ -15,6 +15,9 @@ That means it is a nasal (naasikyaya) that is generated with the dorsum of the t
 
 Notice that even in English we have the digraph (kn), and it occurs as 'gn' in 'agnostic' and when we say ajçaaana, we pronounce it exactly the way the English word is pronounced (j goes to g).
 
+= Why is the Language is set as Serbian (Latin) or Uzbek (Latin) in Windows XP Language Bar? = 
+Windows XP does not have a built-in entry for Sinhala like Windows Vista or later versions of Windows does. So we reply on another entry to avoid confusion. 
+
 
 = Why are my letters are not combined? =
 == Mozilla Firefox ==

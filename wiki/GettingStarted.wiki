@@ -40,7 +40,7 @@ The installer file for Windows will typically look like: thunderbird-3.0b3pre.en
 
 = Installation = 
  * Install the Suriyakumara. This can be done by right clicking the font and clicking Install. You can also drag the font to Windows\Fonts folder. 
- * Install the correct keyboard for your system. The Romanized Keyboard will show up under *Serbian (Latin)* in Windows XP, and *Sinhala (Sri Lanka)* in Windows Vista. 
+ * Install the correct keyboard for your system. The Romanized Keyboard will show up under *Uzbek (Latin)* in Windows XP, and *Sinhala (Sri Lanka)* in Windows Vista. 
  * Install WorldPad, Thunderbird and Firefox
 
 = Configuration =
@@ -52,7 +52,7 @@ After the installation of the Keyboard, the new keyboard should be visible in th
 
 == WorldPad ==
  * Setup WorldPad according to the video: http://romanizedsinhala.googlecode.com/files/WorldPad%20Sinhala.avi
-  * For Windows XP, the Language ID would be Serbian (Latin). 
+  * For Windows XP, the Language ID would be Uzbek (Latin). 
   * For Windows Vista, the Language ID would be Sinhalese as seen in the video. 
 
 == Mozilla Thunderbird ==

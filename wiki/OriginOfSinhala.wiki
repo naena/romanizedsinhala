@@ -1,4 +1,4 @@
-#summary Origin of Sinhala
+#summary Origin of Sinhala (síhala iþihaasaya)
 #labels Phase-QA
 
 <wiki:toc max_depth="2" />

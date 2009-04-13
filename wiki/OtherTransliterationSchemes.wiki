@@ -17,6 +17,12 @@ mé vidihata heḷayan pannā gattāta pasu é paḷāt pālakayanta kiyanna hæ
 bahu janayāta notérena basin livū vyavasthāvakata balaya koyinda læbenné?
 apita ôné prajātantravādī rajayak. apita ôné gamé api dækalā, katākaralā tiyena kenek api venuven āṇdu sabhāva tula apava niyojanaya karanna. kavadāvat muṇagæsī næti loku lokkangen apata velā tiyenné hodak nova varadakmayi. é nisā 1970 gaṇanvala aḷutin sædū vyavasthāva ahôsi kara siṅhalayāta térena siṅhala basin livū tama taman dannā hā tama taman laṅga vasana vasana ayavalun é tama taman venuven pāḷana maṇdalayehi niyojana kirīmata yæviya hæki vyavasthāvak liyā balapat kaḷa yutuyi. kisima vidihaka paḷāt āṇdu æti kirīma vyavasthāvenma vælakiya yutuyi.
 
+== Issues ==
+ * Cannot distinguish between t and þ
+ * Copying ṇ and ḷ to Notepad makes them look near unreable
+
 = !SinGlish by ICTA =
 == Alphabet ==
 [http://i43.tinypic.com/2ujl455.png]
+== Sample ==
+nindhaava

@@ -19,7 +19,7 @@ Click *Key Settings*
 In this screenshot 
 
  * Ctrl+Shift+1 is set to English
- * Ctrl+Shift+4 is set to Sinhala
+ * Ctrl+Shift+5 is set to Sinhala
 
 [http://i44.tinypic.com/2sba2iu.png]
 

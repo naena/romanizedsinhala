@@ -84,6 +84,7 @@
 ||		||	ö	||	eeH	||
 ||		||	q	||	q	||
 ||	ෆ්	||	f	||	f	||
-||		||		||		||
+
+|| *Sinhala* || *Latin (Formal)* || *Latin (Casual)* ||
 ||	ඥ්	||	jç	||	jC	||
 ||	ං	||	´	||	M	||

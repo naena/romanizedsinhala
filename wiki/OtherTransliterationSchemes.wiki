@@ -1,4 +1,4 @@
-#summary List of Other Transliteration Schemes implemented by various other people
+#summary List of Other Transliteration Schemes implemented by various people and organizations
 #labels Phase-Requirements
 <wiki:toc max_depth="2" />
 

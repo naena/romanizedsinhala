@@ -9,7 +9,7 @@
 ||	අ	||	a	||	a	||
 ||	ආ	||	aa	||	aa	||
 ||	<font color=green>ඇ	</font>||	æ	||	ae	||
-||	<font color=green>ඈ</font>	||	ææ	||	aeae	||
+|| ඈ 	||	ææ	||	aeae	||
 ||	ඉ	||	i	||	i	||
 ||	ඊ	||	ii	||	ii	||
 ||	උ	||	u	||	u	||

@@ -1,4 +1,4 @@
-#summary Why we should use Romanized Sinhala instead of Unicode
+#summary Why we should use Romanized Sinhala instead of Unicode Sinhala
 #labels Featured
 <wiki:toc max_depth="2" />
 
@@ -71,4 +71,4 @@ American Smart Fonts
 817-222-0963
 }}}
 
-June 23, 2008 
+2008-06-23

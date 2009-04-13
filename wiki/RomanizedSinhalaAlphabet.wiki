@@ -1,4 +1,4 @@
-#summary Romanized Latin Alphabet
+#summary Romanized Sinhala Alphabet (mizra síhala hoodiya)
 #labels Featured
 
 || *Sinhala* || *Latin (Formal)* || *Latin (Casual)* ||

@@ -8,7 +8,11 @@ Start > Control Panel > Regional and Language Options
 
 Go to *Languages tab*
 
+[http://i41.tinypic.com/vrwk7k.png]
+
 Click *Details*
+
+[http://i43.tinypic.com/500i8p.png]
 
 Click *Key Settings*
 
@@ -17,7 +21,7 @@ In this screenshot
  * Ctrl+Shift+1 is set to English
  * Ctrl+Shift+4 is set to Sinhala
 
-[http://img512.imageshack.us/img512/2122/advancedkeysettings2008mg3.png]
+[http://i44.tinypic.com/2sba2iu.png]
 
 Personalize your Key Sequence accordingly 
 

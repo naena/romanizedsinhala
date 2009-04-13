@@ -36,6 +36,10 @@ But when you start passing data from one system, or vendor, or version of Perl, 
 
 On top of that, we have two popular but incompatible character encodings (Latin-1 and UTF-8) in common use, and the best designed systems could be excused for getting them mixed up if they aren’t explicitly told which one to use. Interoperability requires continual communication among the components to keep everyone on the same page.
 
-At least on the web, it’s easy to avoid this ambiguity, because there are three ways to avoid confusion over what character encoding you’re using. The first is to configure the server to announce up front what encoding is in use, through the HTTP Content-type header (instead of sending “Content-type: text/html”, for example, send “Content-type: text/html; charset=UTF-8”). That requires access either to the server or the server-side script that generates the page; for HTML documents, an alternative is to write the same header into a meta tag: <meta http-equiv="Content-type" content="text/html; charset=ISO-8859-1">. A third alternative for HTML is probably the most common: stick to ASCII, which is supported in all common encodings, and use named or numeric character entities for all non-ASCII characters: “Fran&ccedil;oise and Stanisław”.
+At least on the web, it’s easy to avoid this ambiguity, because there are three ways to avoid confusion over what character encoding you’re using. The first is to configure the server to announce up front what encoding is in use, through the HTTP Content-type header (instead of sending “Content-type: text/html”, for example, send “Content-type: text/html; charset=UTF-8”). That requires access either to the server or the server-side script that generates the page; for HTML documents, an alternative is to write the same header into a meta tag: 
+{{{
+<meta http-equiv="Content-type" content="text/html; charset=ISO-8859-1">
+}}}
+A third alternative for HTML is probably the most common: stick to ASCII, which is supported in all common encodings, and use named or numeric character entities for all non-ASCII characters: “Fran&ccedil;oise and Stanisław”.
 
 Gee, interoperability is still tricky. Plus ça change. Or, plus Ã§a change. ☺

@@ -1,4 +1,4 @@
-#summary Romanized Mixed Sinhala Alphabet (roomaaµukaraµaya karana laða mizra síhala hoodiya)
+#summary Romanized Sinhala Alphabet (roomaaµukaraµaya karana laða mizra síhala hoodiya)
 #labels Featured
 
 || *Sinhala* || *Latin (Formal)* || *Latin (Casual)* ||

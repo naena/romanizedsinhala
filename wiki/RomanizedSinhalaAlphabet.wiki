@@ -1,11 +1,14 @@
 #summary Romanized Sinhala Alphabet (roomaaµukaraµaya karana laða mizra síhala hoodiya)
 #labels Featured
 
+* The letters and digraphs unique to Sinhala are printed in <font color=green>green	</font>. 
+* Those used only in Sanskrit loan words (or said to exist only in Sanskrit) are <font color=blue>blue</font>.
+
 || *Sinhala* || *Latin (Formal)* || *Latin (Casual)* ||
 ||	අ	||	a	||	a	||
 ||	ආ	||	aa	||	aa	||
-||	ඇ	||	æ	||	ae	||
-||	ඈ	||	ææ	||	aeae	||
+||	<font color=green>ඇ	</font>||	æ	||	ae	||
+||	<font color=green>ඈ</font>	||	ææ	||	aeae	||
 ||	ඉ	||	i	||	i	||
 ||	ඊ	||	ii	||	ii	||
 ||	උ	||	u	||	u	||
@@ -83,7 +86,7 @@
 ||		||	ë	||	eH	||
 ||		||	ö	||	eeH	||
 ||		||	q	||	q	||
-||	ෆ්	||	f	||	f	||
+|| <font color=blue>	ෆ්</font>	||	f	||	f	||
 
 || *Sinhala* || *Latin (Formal)* || *Latin (Casual)* ||
 ||	ඥ්	||	jç	||	jC	||

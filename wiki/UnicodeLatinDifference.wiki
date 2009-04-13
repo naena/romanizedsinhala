@@ -1,8 +1,8 @@
-#summary UTF-8 and Latin-1: The Leaning Tower of Babel
+#summary Differences in UTF and Latin-1
 #labels Phase-QA
 <wiki:toc max_depth="2" />
-
-*Original article from http://techessence.info/node/60 *
+=UTF-8 and Latin-1: The Leaning Tower of Babel=
+*Original article:*  from http://techessence.info/node/60
 
 Dorothea Salo has already written an introduction to Unicode with some mention of UTF-8, but let me do a little venting here. There’s some dense technical detail here (or maybe I’m the one who’s being dense); the “so what?” part is at the end.
 

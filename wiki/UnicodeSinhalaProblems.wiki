@@ -2,7 +2,7 @@
 #labels Phase-QA
 <wiki:toc max_depth="2" />
 =Unicode Sinhala Problems=
-==kombuva==
+==kombuva and hal==
 Unicode 'text runs' have a rule. It says in a cluster, the vowels MUST follow the consonants. In a given text, the 'text run' is recorded below the glyphs row. When the text is received at a destination or when a program reads it, the rendering engine inspects the text run and shows the glyphs. In Sinhala as in other Indic, the vowels 'e' and 'o' has a sign that goes to the LEFT of the base character. This is the kombuva. Also the placement of the hal kiriima would be decided by the rendering engine. (See how the hal kiriima is misplaced in the above sample.
 
 Here is an example of typing Unicode SInhala and the process that follows:
@@ -19,6 +19,26 @@ text run (Unicode characters <== numbers):
 If you do not have the text renderer, you will see the letters in the order that the text run brings. The result is kombuva always following the akura.
 
 That becomes very hard to read. Even the single line that his message had to awhile for me to figure out.
+
+===What might be the better standard for sinhala on computers===
+
+Notice how Unicode Sinhala appears in both messages (below). It is extremely hard to read because the kombuva is consistently misplaced, often hal kiriima is misplaced and worse, hal kiriima is shaped wrong too. However, Unicode Sinhala is believed to be the only legitimate method for Sinhala on computers. This is a misconception. If any scheme for a language is standards compliant, it is a legitimate scheme. Dual-script Sinhala is fully compliant of Unicode as well as World Wide Web (w3.org) technologies. So far, the *only* SInhala web site that is fully HTML compliant is the LovataSinhala.com web site.
+
+Unicode Sinhala becomes degraded in my computer because it does not have Sinhala package installed in it. Something that people back home do not realize is that for various reasons, people living overseas are not able to Localize their computers to Sinhala. Often they use their office computers to read email. Unicode is virtually impossible to read in them. Often computers show only rectangles in place of Sinhala letters. (Please see the blue Title Bar of the screenshots).
+
+Unicode Consortium understands these problems. As such, in 2008, Unicode Consortium started to advocate creation of Latin-1 (Single-byte) transliteration schemes for languages like Sinhala. Unicode Sinhala is a double-byte scheme. The main motivation behind this change of heart at Unicode is the inability to use double-byte scripts on regular applications. They say that if the languages had Latin transliterations, then they could use regular off-the-shelf programs. Romanized Sinhala is a transliteration scheme for Sinhala that meets and exceeds these needs.
+
+===A method that never reduces to garbage===
+
+SVG standard established by World Wide Web (W3C.org) in 2003 makes it possible to show romanized Sinhala in Sinhala letters simply using a font. It is in the HTML 5.0 standard. That obviates the need to translate between dual-byte and single-byte schemes as the purpose of Unicode SInhala is to show Sinhala in the native script. Unicode Sinhala can't even do that consistently as I demonstrated here.
+
+Mozilla (makers of the Firefox browser and Thunderbird email client) already supports SVG. Internet Explorer is still behind. I also use the beta version of Thunderbird for email. That allows me to write email using Sinhala sounds. When SVG becomes available in all browsers, Sinhala would be like English or German in all respects, but superior in that Sinhala is dual-scripted
+
+==== Sinhala in Sinhala alphabet ====
+[http://img19.imageshack.us/img19/7234/ss20090414200653.png]
+
+==== Sinhala in Latin alphabet ====
+[http://img19.imageshack.us/img19/8089/ss20090414200657.png]
 
 ==Wijesekera keyboard and Localizing==
 You must have this. We only need the QWERTY keyboard. You MUST localize the computer for this.

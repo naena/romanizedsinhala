@@ -3,8 +3,7 @@
 
 = Download =
  * Get the latest Keyboard for your Operating System: http://code.google.com/p/romanizedsinhala/downloads/list?q=label:Type-Archive
- *  To display real Sinhala letters you will need to install the font: 
-http://romanizedsinhala.googlecode.com/files/Suriyakumara.ttf
+ *  To display real Sinhala letters you will need to install the font: http://romanizedsinhala.googlecode.com/files/Suriyakumara.ttf
 
 = Language Bar = 
  * Customize [LanguageBar]
@@ -55,6 +54,4 @@ viktar guµaseekara
  * You will immediately see real Sinhala
 
 [http://img7.imageshack.us/img7/6826/ss20090415081050.png]
-
-
 

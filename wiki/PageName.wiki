@@ -54,3 +54,6 @@ viktar guµaseekara
  * You will immediately see real Sinhala
 
 [http://img7.imageshack.us/img7/6826/ss20090415081050.png]
+
+
+Now that you have seen what Latin-1 Sinhala can do, try visiting [GettingStarted] for a complete guide on using Latin-1 Sinhala. 

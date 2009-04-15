@@ -41,17 +41,16 @@ If you are with me so far...
 
 (we just had to press one Alt key combination)
 
- * Now you typed the following following: 
+ * You have now typed the following following: 
 {{{
 viktar guµaseekara
 }}}
 [http://i39.tinypic.com/jtbh8o.png]
 
- * Now change the font to Suriyakumara
+ * Change the font to Suriyakumara
 
 [http://i44.tinypic.com/2pyuz5w.png]
 
  * You will immediately see real Sinhala
 
 [http://img7.imageshack.us/img7/6826/ss20090415081050.png]
-

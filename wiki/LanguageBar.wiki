@@ -1,6 +1,6 @@
 #summary This page guides you on configuring Language Bar to easily switch between languages with keyboard shortcuts.
 #labels Phase-Deploy
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="2" />
 
 = Windows XP =
 
@@ -35,7 +35,39 @@ Finalized Language Bar entries:
 
 = Windows Vista / Windows 7 =
 
+== Manually Installing Language ==
+
+There are times where the Language would not appear in the Language Bar. 
+
+
+ * Start > Control Panel > Regional and Language Settings 
+
+ * Go to Keyboards and Languages
+
+ * Change Keyboards
+ * Click Add
+
+[http://img19.imageshack.us/img19/3170/textservicesandinputlan.png]
+
+ * Scroll down to Sinhala (Sri Lanka)
+
+[http://i41.tinypic.com/w1u5j9.png]
+
+ * Click Dual-script Sinhala v1.1 
+ * Press OK 
+
+[http://i41.tinypic.com/219z80g.png]
+
+ * Press OK 
+
+[http://i43.tinypic.com/30i989x.png]
+
+
+== Setting Keyboard Shortcuts ==
+
 Start > Control Panel > Regional and Language Settings 
+
+Go to Keyboards and Languages
 
 Change Keyboards
 

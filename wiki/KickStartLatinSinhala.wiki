@@ -1,8 +1,6 @@
 #summary Kick start typing Latin-1 Sinhala
 #labels Featured,Phase-Support
 
-#summary Kick Start typing Latin-1 Sinhala
-
 = Download =
  * Get the latest Keyboard for your Operating System: http://code.google.com/p/romanizedsinhala/downloads/list?q=label:Type-Archive
  *  To display real Sinhala letters you will need to install the font: http://romanizedsinhala.googlecode.com/files/Suriyakumara.ttf

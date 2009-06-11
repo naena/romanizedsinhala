@@ -1,5 +1,6 @@
 #summary Problems associated with Latin-1 Sinhala
 #labels Phase-QA
+<wiki:toc max_depth="2" />
 
 = Sinhala letters will be only visible in formatted text = 
 

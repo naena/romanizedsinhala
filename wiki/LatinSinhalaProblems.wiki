@@ -2,7 +2,7 @@
 #labels Phase-QA
 <wiki:toc max_depth="2" />
 
-= Sinhala letters will be only visible in formatted text = 
+= Sinhala letters and English can only mixed in formatted text = 
 
 In order to display Sinhala letters along with English, you will need to use a text editor that supports text formatting. For instance, you cannot use Notepad to display both English and Sinhala words at the same time in a paragraph. 
 

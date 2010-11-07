@@ -29,7 +29,7 @@ Download [http://scripts.sil.org/cms/scripts/render_download.php?site_id=nrsi&fo
 
 == Mozilla Thunderbird ==
 
-Download [http://ftp.mozilla.org/pub/mozilla.org/thunderbird/nightly/latest-trunk/ Mozilla Thunderbird 3.0 Beta]
+Download [http://www.mozillamessaging.com/en-US/thunderbird/ Mozilla Thunderbird]
 
 The installer file for Windows will typically look like: thunderbird-3.0b3pre.en-US.win32.installer.exe
 
